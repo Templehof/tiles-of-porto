@@ -10,7 +10,10 @@ const Gallery = () => {
   const galleryRef = createRef<HTMLDivElement>();
 
   useEffect(() => {
-    Draggable.create(galleryRef.current);
+    Draggable.create(galleryRef.current, {
+      bounds: "body",
+      inertia: true,
+    });
   }, []);
 
   return (
