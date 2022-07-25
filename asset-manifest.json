@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/tiles-of-porto/static/css/main.129fbea6.css",
+    "main.js": "/tiles-of-porto/static/js/main.6282c5d7.js",
+    "static/media/11.jpg": "/tiles-of-porto/static/media/11.6fc4f6e5063fb1ce2272.jpg",
+    "static/media/8.jpg": "/tiles-of-porto/static/media/8.532e49d58160045f0d86.jpg",
+    "static/media/10.jpg": "/tiles-of-porto/static/media/10.6eb136ccdc839126bb53.jpg",
+    "static/media/5.jpg": "/tiles-of-porto/static/media/5.96cc14352b31faeaf730.jpg",
+    "static/media/14.jpg": "/tiles-of-porto/static/media/14.a47e336fa14956a4c04b.jpg",
+    "static/media/20.jpg": "/tiles-of-porto/static/media/20.f1db4c133d3d3dbd3fb1.jpg",
+    "static/media/17.jpg": "/tiles-of-porto/static/media/17.3114147563171ad71ec2.jpg",
+    "static/media/7.jpg": "/tiles-of-porto/static/media/7.5f8ded4743aeb6840a25.jpg",
+    "static/media/9.jpg": "/tiles-of-porto/static/media/9.a50eac306c5f189cfc5e.jpg",
+    "static/media/4.jpg": "/tiles-of-porto/static/media/4.6744fd18275a15aa6d4e.jpg",
+    "static/media/18.jpg": "/tiles-of-porto/static/media/18.af64fd0829ec99b46a8d.jpg",
+    "static/media/12.jpg": "/tiles-of-porto/static/media/12.de9d2bcfe2593293d4f9.jpg",
+    "static/media/6.jpg": "/tiles-of-porto/static/media/6.8758f307ee6e94525515.jpg",
+    "static/media/19.jpg": "/tiles-of-porto/static/media/19.e949a341d5dc5df4774d.jpg",
+    "static/media/13.jpg": "/tiles-of-porto/static/media/13.3668057cf7bf359fb858.jpg",
+    "static/media/16.jpg": "/tiles-of-porto/static/media/16.4a4e1ec535e30e0c82c6.jpg",
+    "static/media/15.jpg": "/tiles-of-porto/static/media/15.b1f0bcc1b8967e1dac41.jpg",
+    "static/media/3.jpg": "/tiles-of-porto/static/media/3.6c5304c99ec3b51a1eb6.jpg",
+    "static/media/2.jpg": "/tiles-of-porto/static/media/2.56f75076613c5a71f889.jpg",
+    "static/media/1.jpg": "/tiles-of-porto/static/media/1.b4886530b73b3dd45bf3.jpg",
+    "index.html": "/tiles-of-porto/index.html",
+    "main.129fbea6.css.map": "/tiles-of-porto/static/css/main.129fbea6.css.map",
+    "main.6282c5d7.js.map": "/tiles-of-porto/static/js/main.6282c5d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.129fbea6.css",
+    "static/js/main.6282c5d7.js"
+  ]
+}
