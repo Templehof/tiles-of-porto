@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tiles-of-porto/static/css/main.129fbea6.css",
+    "main.css": "/tiles-of-porto/static/css/main.27ac80c7.css",
     "main.js": "/tiles-of-porto/static/js/main.6282c5d7.js",
     "static/media/11.jpg": "/tiles-of-porto/static/media/11.6fc4f6e5063fb1ce2272.jpg",
     "static/media/8.jpg": "/tiles-of-porto/static/media/8.532e49d58160045f0d86.jpg",
@@ -23,11 +23,11 @@
     "static/media/2.jpg": "/tiles-of-porto/static/media/2.56f75076613c5a71f889.jpg",
     "static/media/1.jpg": "/tiles-of-porto/static/media/1.b4886530b73b3dd45bf3.jpg",
     "index.html": "/tiles-of-porto/index.html",
-    "main.129fbea6.css.map": "/tiles-of-porto/static/css/main.129fbea6.css.map",
+    "main.27ac80c7.css.map": "/tiles-of-porto/static/css/main.27ac80c7.css.map",
     "main.6282c5d7.js.map": "/tiles-of-porto/static/js/main.6282c5d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.129fbea6.css",
+    "static/css/main.27ac80c7.css",
     "static/js/main.6282c5d7.js"
   ]
 }
