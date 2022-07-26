@@ -38,22 +38,24 @@ body {
   }
 }
 
-@media (max-width: 992px) {
+@media (max-width: 900px) {
   .header {
-    position: relative;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% -50%);
+    font-size: calc(var(--index));
+  }
+
+  * {
+    overflow: hidden;
   }
 
   body {
-    overflow: scroll;
-    display: block;
+    position: relative;
     padding: var(--gap);
   }
 
-  .gallery {
-    width: 100%;
-    column-width: 10em;
-    transform: scale(1);
-  }
   .gallery-item:hover {
     transform: scale(1);
   }

@@ -6,3 +6,10 @@
 	will-change: transform;
 	transition: transform 1s cubic-bezier(.065, 1, .25, 1), opacity 1s;
 }
+
+@media (max-width: 900px) {
+	.gallery {
+		width: 100%;
+		transform: scale(2.5);
+	  }
+  }
